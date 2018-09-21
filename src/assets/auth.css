@@ -1,0 +1,13 @@
+
+.auth-card button {
+    background: #7186c7;
+    min-width: 60%;
+    border: none;
+    margin-top: 15px;
+    border-radius: 0;
+  }
+  
+  .auth-card button:hover {
+    background: #556597;
+  }
+  
